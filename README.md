@@ -1,5 +1,6 @@
 # Black and Blue Roozer/Sarven Emojis for Discord/Slack and others
-![image](https://github.com/user-attachments/assets/1d0133ca-e64c-4a28-85a7-cc8d81d1f2e8)
+<!-- ![image](https://github.com/user-attachments/assets/1d0133ca-e64c-4a28-85a7-cc8d81d1f2e8) -->
+<!-- regression: logo and banner needs to be fixed. -->
 
 Completely open-source and free to use Roozer and Sarven emojis for Discord, Slack, and other platforms that use customizable emojis. To use this suite, either `git clone` this repository through the terminal:
 ```
